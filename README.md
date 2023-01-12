@@ -13,6 +13,10 @@ if you need a python script that adds, on the image, in the top-left corner a te
 for example, for im_0038.jpg, python script with add the text "0038" in the top-left corder and save the new image in:
 /output/im_0038.jpg
 
-you find automation scripts using python here
+# Solution:
+--First Install Pillow with pip (pip install pillow), 
+
+--Place the images in input folder, and Run the script..
+
 
 
